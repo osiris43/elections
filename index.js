@@ -20,10 +20,6 @@ var dataAdapterConfig = {
   'default': {
     host: 'www.googleapis.com/civicinfo/us_v1',
     protocol: 'https'
-  },
-  'travis-ci': {
-    host: 'api.travis-ci.org',
-    protocol: 'https'
   }
 };
 
